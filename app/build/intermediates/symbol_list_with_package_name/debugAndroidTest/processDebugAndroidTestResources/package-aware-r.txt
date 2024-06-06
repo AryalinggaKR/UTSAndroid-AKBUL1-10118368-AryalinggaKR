@@ -1,0 +1,3 @@
+com.example.utsandroid_akbul1_10118368_aryalinggakr.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

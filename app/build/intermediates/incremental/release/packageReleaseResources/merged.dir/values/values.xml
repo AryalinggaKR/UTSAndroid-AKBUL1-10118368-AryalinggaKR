@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#C8E6C9</color>
+    <color name="bg_in">#A5D6A7</color>
+    <color name="black">#FF000000</color>
+    <color name="but">#4CAF50</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Anak">Anak</string>
+    <string name="JK">Jenis Kelamin</string>
+    <string name="Kerabat">Kerabat</string>
+    <string name="LK">Laki-laki</string>
+    <string name="NIK">NIK</string>
+    <string name="Nama">Nama</string>
+    <string name="Ortu">Orangtua</string>
+    <string name="PR">Perempuan</string>
+    <string name="SI">Suami / Istri</string>
+    <string name="TTL">Tempat Tanggal Lahir (DD-MM-YYYY)</string>
+    <string name="app_name">UTSAndroid-AKBUL1-10118368-AryalinggaKR</string>
+    <string name="judul">Form Pengisian Data</string>
+    <string name="konfirmasi">Cek Kembali Isian Data</string>
+    <string name="prev">Preview</string>
+    <string name="prev_dat">Preview Data</string>
+    <string name="relasi">Hubungan dengan Anda</string>
+    <string name="submit">Submit</string>
+    <string name="ubah">Ubah</string>
+    <style name="Base.Theme.UTSAndroidAKBUL110118368AryalinggaKR" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.UTSAndroidAKBUL110118368AryalinggaKR" parent="Base.Theme.UTSAndroidAKBUL110118368AryalinggaKR"/>
+</resources>

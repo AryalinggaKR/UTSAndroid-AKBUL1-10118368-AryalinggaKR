@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.3.0" type="incidents">
+
+    <incident
+        id="MissingDefaultResource"
+        severity="fatal"
+        message="The drawable &quot;calendar&quot; in drawable-small has no declaration in the base `drawable` folder or in a `drawable-`*density*`dpi` folder; this can lead to crashes when the drawable is queried in a configuration that does not match this qualifier">
+        <location
+            file="${:app*release*MAIN*sourceProvider*0*resDir*0}/drawable-small/calendar.xml"
+            line="1"
+            column="2"
+            startOffset="1"
+            endLine="1"
+            endColumn="8"
+            endOffset="7"/>
+    </incident>
+
+</incidents>

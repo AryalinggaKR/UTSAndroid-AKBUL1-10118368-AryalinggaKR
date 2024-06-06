@@ -1,0 +1,4 @@
+#Thu Jun 06 09:34:28 WIB 2024
+base.0=D\:\\Kuliah\\Android\\UTSAndroidAKBUL110118368AryalinggaKR\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

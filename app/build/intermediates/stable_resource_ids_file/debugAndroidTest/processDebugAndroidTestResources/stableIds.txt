@@ -1,0 +1,2 @@
+com.example.utsandroid_akbul1_10118368_aryalinggakr.test:style/WhiteBackgroundTheme = 0x7f010001
+com.example.utsandroid_akbul1_10118368_aryalinggakr.test:style/WhiteBackgroundDialogTheme = 0x7f010000
